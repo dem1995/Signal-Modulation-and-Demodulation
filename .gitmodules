@@ -1,3 +1,6 @@
 [submodule "documentation/LaTeXWriteup"]
 	path = documentation/LaTeXWriteup
 	url = https://github.com/dem1995/Signal-Modulation-and-Demodulation-Writeup--LaTeX-
+[submodule "documentation/LaTeX-Writeup"]
+	path = documentation/LaTeX-Writeup
+	url = https://github.com/dem1995/Signal-Modulation-and-Demodulation-Writeup--LaTeX-
